@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main_sec{
+    width: 75%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.balance_show_section{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(243, 219, 234);
+    padding: 88px;
+    padding: 15px;
+    margin-top: 22px;
+}
+.balance{
+    border: 2px solid black;
+    padding: 0px 77px;
+    text-align: center;
+    border-radius: 78px;
+    background-color: #cff0fb;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.total{
+    color: rgb(0 134 0);
+}
+.withdrawal{
+    color: #d81414;
+}
+.depo{
+    color: #0909b5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.balance_add_section{
+    display: flex;
+    justify-content: space-around;
+    background-color: #e7dad1;
+    padding: 82px;
+}
+.form{
+    text-align: center;
+}
+label{
+    font-weight: bold;
+    font-size: 23px;
+    color: #053690bd;
+}
+input{
+    margin: 24px;
+    border-radius: 3px;
+    padding: 7px 45px;
+    border: none;
+}
+button{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 7px 24px;
+    border-radius: 16px;
+    color: white;
+    background-color: #665b5b;
+}

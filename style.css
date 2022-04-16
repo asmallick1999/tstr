@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0e0e0ed1;
+}
+.main_section{
+    margin: 84px 383px;
+    border: 3px black solid;
+    border-bottom: 1px solid black;
+    background-color:  #f8def5;
+    padding-bottom: 33px;
+    border-radius: 24px;
+}
+h3{
+    background-color: #f1fff84f;
+    text-align: center;
+    padding: 8px;
+    color: #ff0000;
+    font-family: 'Courier New', Courier, monospace;
+}
+.login_main{
+    text-align: center;
+}
+button{
+    margin-top: 21px;
+    padding: 10px 30px;
+    font-weight: bold;
+    /* border: none; */
+    background-color:  #cefff8;
+    font-size: 15px;
+    border-radius: 13px;
+}
+label{
+    font-weight: bold;
+    margin-right: 69px;
+}
+.lab1{
+    margin-right: 82px;
+}
+input{
+    padding: 6px;
+    border-radius: 10px;
+}
+
